@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: images/homestay-elfath.jpg
+    image: images/elfath-readystok.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
